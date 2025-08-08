@@ -1,0 +1,1001 @@
+Student_ID,Gender,Uniform_Top,Uniform_Bottom,Color,Accessory,Day_Occasion
+S0001,Female,Gown,Shorts,Grey,Hat,Graduation
+S0002,Male,Shirt,Shorts,White,None,Assembly
+S0003,Male,Shirt,Trousers,Yellow,Scarf,Graduation
+S0004,Female,Blazer,Shorts,Blue,Scarf,Assembly
+S0005,Male,Blazer,Skirt,White,Belt,Cultural Day
+S0006,Female,Gown,Trousers,White,Hat,Assembly
+S0007,Male,Shirt,Trousers,Grey,Belt,Sports Day
+S0008,Male,Shirt,Shorts,Red,Tie,Regular Day
+S0009,Female,Shirt,Shorts,Red,Badge,Graduation
+S0010,Male,Gown,Skirt,Grey,None,Sports Day
+S0011,Female,Gown,Trousers,Red,Hat,Sports Day
+S0012,Female,Shirt,Shorts,White,Tie,Graduation
+S0013,Male,Blazer,Skirt,Green,Scarf,Sports Day
+S0014,Female,Shirt,Shorts,Green,Belt,Cultural Day
+S0015,Female,Gown,Trousers,Yellow,Badge,Sports Day
+S0016,Male,Blazer,Skirt,White,Belt,Cultural Day
+S0017,Male,Blazer,Shorts,Red,Scarf,Graduation
+S0018,Male,Shirt,Skirt,Blue,Scarf,Cultural Day
+S0019,Male,Gown,Skirt,Black,Tie,Sports Day
+S0020,Male,Gown,Skirt,Blue,Scarf,Regular Day
+S0021,Male,Shirt,Trousers,Yellow,None,Cultural Day
+S0022,Male,Blazer,Skirt,White,Badge,Cultural Day
+S0023,Male,Shirt,Trousers,White,None,Sports Day
+S0024,Female,Gown,Skirt,Black,Badge,Sports Day
+S0025,Male,Blazer,Shorts,White,Belt,Cultural Day
+S0026,Female,Blazer,Trousers,Grey,Scarf,Regular Day
+S0027,Male,Gown,Shorts,Blue,Badge,Assembly
+S0028,Female,Blazer,Shorts,White,Hat,Graduation
+S0029,Female,Shirt,Skirt,Yellow,None,Assembly
+S0030,Female,Blazer,Skirt,Grey,None,Regular Day
+S0031,Male,Blazer,Shorts,Red,Badge,Graduation
+S0032,Male,Blazer,Skirt,White,Scarf,Graduation
+S0033,Female,Blazer,Shorts,Green,Badge,Sports Day
+S0034,Male,Shirt,Shorts,Yellow,Belt,Assembly
+S0035,Female,Shirt,Shorts,Blue,Tie,Cultural Day
+S0036,Female,Shirt,Trousers,Blue,Badge,Sports Day
+S0037,Female,Shirt,Trousers,Black,Badge,Graduation
+S0038,Male,Shirt,Shorts,Grey,Tie,Regular Day
+S0039,Female,Shirt,Trousers,Red,Belt,Graduation
+S0040,Male,Blazer,Shorts,Grey,Tie,Graduation
+S0041,Female,Shirt,Shorts,Green,Badge,Graduation
+S0042,Female,Blazer,Skirt,Yellow,Scarf,Sports Day
+S0043,Female,Gown,Shorts,Black,Belt,Sports Day
+S0044,Male,Gown,Trousers,Black,Scarf,Graduation
+S0045,Female,Blazer,Shorts,Grey,Badge,Cultural Day
+S0046,Male,Gown,Skirt,White,Belt,Cultural Day
+S0047,Female,Gown,Trousers,Yellow,Tie,Regular Day
+S0048,Male,Blazer,Shorts,Black,None,Cultural Day
+S0049,Female,Blazer,Skirt,Red,Belt,Graduation
+S0050,Female,Gown,Skirt,Black,Tie,Cultural Day
+S0051,Female,Gown,Trousers,Black,Scarf,Regular Day
+S0052,Female,Gown,Skirt,Green,Belt,Cultural Day
+S0053,Male,Blazer,Skirt,Black,None,Regular Day
+S0054,Female,Shirt,Skirt,Grey,Hat,Regular Day
+S0055,Female,Blazer,Skirt,White,Tie,Graduation
+S0056,Male,Blazer,Shorts,Grey,Tie,Cultural Day
+S0057,Female,Blazer,Shorts,White,Belt,Assembly
+S0058,Male,Gown,Skirt,Green,Badge,Regular Day
+S0059,Male,Blazer,Trousers,Grey,Belt,Cultural Day
+S0060,Female,Shirt,Trousers,Green,None,Cultural Day
+S0061,Female,Blazer,Shorts,Green,Badge,Graduation
+S0062,Female,Blazer,Shorts,Yellow,Belt,Graduation
+S0063,Male,Gown,Trousers,Red,Badge,Graduation
+S0064,Male,Shirt,Skirt,Black,Belt,Sports Day
+S0065,Female,Blazer,Shorts,White,None,Graduation
+S0066,Female,Gown,Skirt,Green,None,Assembly
+S0067,Female,Blazer,Trousers,Yellow,Hat,Assembly
+S0068,Female,Blazer,Skirt,Blue,Scarf,Graduation
+S0069,Female,Blazer,Trousers,Black,Hat,Cultural Day
+S0070,Female,Shirt,Trousers,Blue,Belt,Graduation
+S0071,Male,Gown,Trousers,Black,Tie,Assembly
+S0072,Male,Blazer,Trousers,Red,Belt,Cultural Day
+S0073,Male,Gown,Skirt,Green,Scarf,Sports Day
+S0074,Male,Shirt,Trousers,Red,Belt,Sports Day
+S0075,Male,Blazer,Shorts,Yellow,Belt,Cultural Day
+S0076,Male,Shirt,Trousers,Black,Scarf,Cultural Day
+S0077,Female,Gown,Shorts,Yellow,Belt,Regular Day
+S0078,Female,Blazer,Skirt,Red,None,Sports Day
+S0079,Male,Blazer,Skirt,Yellow,Badge,Graduation
+S0080,Female,Blazer,Shorts,Black,Belt,Cultural Day
+S0081,Female,Gown,Skirt,Black,Scarf,Sports Day
+S0082,Male,Gown,Trousers,Blue,None,Cultural Day
+S0083,Male,Gown,Trousers,White,Scarf,Regular Day
+S0084,Male,Blazer,Trousers,Blue,Badge,Regular Day
+S0085,Female,Blazer,Skirt,Red,Scarf,Assembly
+S0086,Male,Shirt,Skirt,Yellow,Tie,Assembly
+S0087,Male,Gown,Skirt,White,Hat,Sports Day
+S0088,Female,Blazer,Skirt,Yellow,Badge,Regular Day
+S0089,Male,Gown,Trousers,Black,Hat,Assembly
+S0090,Male,Blazer,Shorts,Red,Belt,Regular Day
+S0091,Female,Gown,Skirt,Green,Belt,Cultural Day
+S0092,Female,Gown,Trousers,Blue,Belt,Regular Day
+S0093,Male,Gown,Trousers,Blue,Tie,Regular Day
+S0094,Male,Shirt,Shorts,Blue,Badge,Sports Day
+S0095,Male,Blazer,Skirt,Black,Badge,Cultural Day
+S0096,Male,Blazer,Shorts,Red,Badge,Assembly
+S0097,Female,Shirt,Shorts,Green,Scarf,Assembly
+S0098,Male,Blazer,Shorts,Black,Scarf,Sports Day
+S0099,Male,Shirt,Trousers,White,Badge,Assembly
+S0100,Male,Blazer,Shorts,Yellow,Scarf,Cultural Day
+S0101,Male,Gown,Trousers,Blue,Tie,Sports Day
+S0102,Female,Blazer,Shorts,Yellow,Hat,Sports Day
+S0103,Female,Blazer,Trousers,Green,Tie,Sports Day
+S0104,Male,Gown,Shorts,Grey,Scarf,Assembly
+S0105,Female,Shirt,Shorts,Red,Belt,Assembly
+S0106,Female,Gown,Skirt,Yellow,Hat,Sports Day
+S0107,Female,Shirt,Shorts,White,Scarf,Sports Day
+S0108,Male,Gown,Shorts,Grey,Belt,Graduation
+S0109,Female,Shirt,Trousers,Yellow,Tie,Sports Day
+S0110,Male,Shirt,Skirt,Green,Scarf,Cultural Day
+S0111,Female,Blazer,Trousers,Yellow,Hat,Sports Day
+S0112,Male,Gown,Trousers,Green,None,Cultural Day
+S0113,Male,Blazer,Trousers,Yellow,Belt,Cultural Day
+S0114,Male,Shirt,Trousers,Black,Badge,Assembly
+S0115,Male,Shirt,Trousers,Yellow,Hat,Graduation
+S0116,Male,Shirt,Skirt,Yellow,None,Sports Day
+S0117,Female,Blazer,Skirt,Black,Scarf,Assembly
+S0118,Male,Blazer,Shorts,White,None,Sports Day
+S0119,Female,Shirt,Trousers,Blue,None,Cultural Day
+S0120,Male,Blazer,Shorts,Black,Tie,Graduation
+S0121,Female,Gown,Trousers,Red,Tie,Graduation
+S0122,Male,Blazer,Skirt,Green,None,Regular Day
+S0123,Female,Blazer,Skirt,Green,Scarf,Sports Day
+S0124,Female,Shirt,Skirt,Blue,Badge,Cultural Day
+S0125,Male,Gown,Shorts,Black,Badge,Regular Day
+S0126,Female,Blazer,Skirt,Green,Scarf,Graduation
+S0127,Male,Shirt,Skirt,Black,Scarf,Sports Day
+S0128,Female,Blazer,Shorts,Green,Hat,Assembly
+S0129,Male,Shirt,Trousers,Blue,Tie,Graduation
+S0130,Male,Gown,Shorts,Grey,Badge,Graduation
+S0131,Male,Shirt,Skirt,Black,None,Graduation
+S0132,Male,Blazer,Skirt,White,Tie,Regular Day
+S0133,Female,Gown,Trousers,Yellow,Tie,Sports Day
+S0134,Female,Gown,Trousers,Red,None,Graduation
+S0135,Female,Gown,Skirt,Green,Tie,Regular Day
+S0136,Male,Gown,Trousers,Yellow,None,Sports Day
+S0137,Female,Gown,Trousers,White,Scarf,Sports Day
+S0138,Female,Blazer,Skirt,Red,Scarf,Sports Day
+S0139,Male,Blazer,Trousers,Red,Badge,Assembly
+S0140,Female,Gown,Trousers,Yellow,None,Sports Day
+S0141,Male,Shirt,Skirt,Red,Scarf,Assembly
+S0142,Female,Blazer,Trousers,Yellow,None,Assembly
+S0143,Male,Blazer,Trousers,Red,Scarf,Graduation
+S0144,Female,Blazer,Trousers,Grey,Hat,Sports Day
+S0145,Male,Shirt,Skirt,Green,None,Assembly
+S0146,Male,Shirt,Trousers,Yellow,Tie,Assembly
+S0147,Male,Shirt,Shorts,Red,None,Regular Day
+S0148,Female,Blazer,Skirt,Blue,Tie,Assembly
+S0149,Male,Shirt,Skirt,Red,None,Graduation
+S0150,Male,Blazer,Shorts,White,Tie,Regular Day
+S0151,Female,Gown,Shorts,Yellow,Hat,Sports Day
+S0152,Male,Shirt,Shorts,Red,Tie,Cultural Day
+S0153,Female,Blazer,Skirt,Red,Belt,Graduation
+S0154,Male,Blazer,Shorts,Green,Hat,Assembly
+S0155,Female,Gown,Shorts,Red,Scarf,Graduation
+S0156,Female,Blazer,Skirt,Blue,Badge,Cultural Day
+S0157,Male,Shirt,Shorts,Blue,None,Graduation
+S0158,Male,Gown,Skirt,Blue,Scarf,Graduation
+S0159,Female,Blazer,Skirt,Red,None,Graduation
+S0160,Female,Blazer,Shorts,Red,Scarf,Sports Day
+S0161,Male,Gown,Skirt,Red,Belt,Sports Day
+S0162,Female,Gown,Skirt,White,Scarf,Sports Day
+S0163,Female,Gown,Skirt,Yellow,None,Graduation
+S0164,Male,Shirt,Shorts,Red,Hat,Cultural Day
+S0165,Female,Gown,Trousers,White,Tie,Cultural Day
+S0166,Female,Gown,Shorts,Blue,Badge,Cultural Day
+S0167,Male,Gown,Trousers,Black,Badge,Graduation
+S0168,Female,Shirt,Shorts,White,Belt,Assembly
+S0169,Male,Gown,Skirt,Grey,Belt,Regular Day
+S0170,Male,Gown,Trousers,Blue,Hat,Regular Day
+S0171,Male,Shirt,Skirt,Grey,Badge,Sports Day
+S0172,Female,Gown,Skirt,Green,Scarf,Graduation
+S0173,Female,Gown,Shorts,Black,Badge,Graduation
+S0174,Female,Gown,Skirt,White,None,Graduation
+S0175,Male,Shirt,Trousers,White,Hat,Sports Day
+S0176,Male,Gown,Trousers,Black,None,Assembly
+S0177,Female,Gown,Shorts,Yellow,Badge,Regular Day
+S0178,Female,Gown,Skirt,Yellow,Belt,Assembly
+S0179,Male,Shirt,Shorts,Green,Hat,Sports Day
+S0180,Female,Shirt,Shorts,Yellow,Hat,Assembly
+S0181,Female,Blazer,Trousers,Grey,Tie,Cultural Day
+S0182,Female,Blazer,Shorts,Black,Badge,Graduation
+S0183,Female,Gown,Shorts,White,None,Regular Day
+S0184,Female,Blazer,Trousers,Green,Tie,Cultural Day
+S0185,Male,Blazer,Skirt,Grey,Scarf,Sports Day
+S0186,Male,Gown,Shorts,Yellow,Belt,Regular Day
+S0187,Male,Gown,Trousers,White,Belt,Cultural Day
+S0188,Male,Gown,Shorts,Red,Scarf,Cultural Day
+S0189,Female,Gown,Trousers,Red,Scarf,Sports Day
+S0190,Female,Blazer,Shorts,Yellow,Tie,Sports Day
+S0191,Male,Gown,Skirt,White,Belt,Sports Day
+S0192,Female,Gown,Trousers,Blue,None,Regular Day
+S0193,Male,Shirt,Trousers,Grey,Badge,Graduation
+S0194,Female,Gown,Shorts,Yellow,None,Graduation
+S0195,Female,Gown,Skirt,Blue,Tie,Sports Day
+S0196,Female,Shirt,Skirt,Grey,Belt,Cultural Day
+S0197,Male,Blazer,Skirt,Red,Badge,Regular Day
+S0198,Female,Shirt,Shorts,Black,None,Sports Day
+S0199,Female,Blazer,Trousers,Black,Scarf,Regular Day
+S0200,Male,Blazer,Skirt,Grey,None,Graduation
+S0201,Male,Shirt,Trousers,Red,Tie,Graduation
+S0202,Male,Gown,Skirt,Blue,Hat,Sports Day
+S0203,Male,Shirt,Shorts,White,None,Assembly
+S0204,Female,Shirt,Skirt,Black,None,Sports Day
+S0205,Female,Blazer,Shorts,Grey,Belt,Assembly
+S0206,Male,Blazer,Trousers,White,None,Assembly
+S0207,Female,Blazer,Skirt,Yellow,Hat,Graduation
+S0208,Female,Shirt,Shorts,Yellow,Belt,Cultural Day
+S0209,Female,Gown,Trousers,Black,Scarf,Regular Day
+S0210,Male,Blazer,Skirt,Black,Tie,Sports Day
+S0211,Male,Gown,Trousers,Black,Tie,Sports Day
+S0212,Male,Shirt,Trousers,White,Scarf,Regular Day
+S0213,Male,Shirt,Skirt,Green,None,Regular Day
+S0214,Male,Shirt,Trousers,Blue,Tie,Cultural Day
+S0215,Male,Shirt,Skirt,Green,Belt,Sports Day
+S0216,Male,Blazer,Trousers,Grey,Badge,Graduation
+S0217,Male,Gown,Trousers,White,Tie,Graduation
+S0218,Female,Blazer,Trousers,Grey,Tie,Cultural Day
+S0219,Female,Shirt,Trousers,Grey,Tie,Sports Day
+S0220,Male,Blazer,Skirt,Yellow,None,Cultural Day
+S0221,Female,Gown,Shorts,Black,Tie,Regular Day
+S0222,Male,Blazer,Skirt,Green,Hat,Sports Day
+S0223,Female,Blazer,Skirt,Red,Badge,Assembly
+S0224,Male,Blazer,Shorts,Red,None,Graduation
+S0225,Female,Gown,Trousers,Blue,Hat,Graduation
+S0226,Female,Gown,Skirt,Yellow,Tie,Cultural Day
+S0227,Male,Shirt,Shorts,Grey,Tie,Assembly
+S0228,Female,Shirt,Skirt,Blue,Tie,Sports Day
+S0229,Female,Gown,Shorts,Grey,Tie,Cultural Day
+S0230,Female,Shirt,Shorts,Yellow,Belt,Graduation
+S0231,Male,Gown,Trousers,White,Belt,Cultural Day
+S0232,Female,Blazer,Trousers,Yellow,Hat,Sports Day
+S0233,Female,Gown,Trousers,Green,Badge,Cultural Day
+S0234,Female,Blazer,Skirt,White,Scarf,Cultural Day
+S0235,Female,Shirt,Trousers,Black,Badge,Sports Day
+S0236,Male,Gown,Skirt,White,Tie,Assembly
+S0237,Male,Shirt,Skirt,Black,Belt,Graduation
+S0238,Male,Gown,Shorts,Black,Belt,Sports Day
+S0239,Female,Shirt,Shorts,Red,Badge,Assembly
+S0240,Female,Shirt,Shorts,Yellow,Scarf,Assembly
+S0241,Female,Shirt,Shorts,Yellow,Hat,Regular Day
+S0242,Male,Gown,Trousers,White,Tie,Cultural Day
+S0243,Female,Blazer,Shorts,Black,Belt,Cultural Day
+S0244,Male,Shirt,Trousers,Green,Tie,Assembly
+S0245,Male,Blazer,Shorts,White,Scarf,Regular Day
+S0246,Female,Gown,Trousers,Blue,None,Regular Day
+S0247,Male,Gown,Trousers,Green,Hat,Assembly
+S0248,Female,Shirt,Trousers,White,Badge,Sports Day
+S0249,Male,Shirt,Trousers,Blue,Badge,Cultural Day
+S0250,Male,Gown,Shorts,Red,None,Regular Day
+S0251,Female,Gown,Trousers,Grey,None,Assembly
+S0252,Male,Gown,Trousers,Red,Hat,Cultural Day
+S0253,Male,Gown,Shorts,Black,None,Assembly
+S0254,Female,Shirt,Skirt,White,None,Graduation
+S0255,Male,Gown,Trousers,Blue,Badge,Regular Day
+S0256,Male,Gown,Trousers,Green,Belt,Graduation
+S0257,Female,Gown,Trousers,Yellow,Belt,Graduation
+S0258,Female,Blazer,Trousers,Red,Belt,Graduation
+S0259,Female,Blazer,Trousers,Yellow,Scarf,Cultural Day
+S0260,Male,Gown,Trousers,White,Badge,Assembly
+S0261,Female,Blazer,Skirt,Black,None,Assembly
+S0262,Male,Shirt,Trousers,Grey,None,Regular Day
+S0263,Female,Blazer,Trousers,Grey,Hat,Graduation
+S0264,Male,Gown,Skirt,Black,Hat,Regular Day
+S0265,Female,Shirt,Trousers,Red,Scarf,Graduation
+S0266,Female,Gown,Trousers,Blue,Scarf,Sports Day
+S0267,Female,Gown,Trousers,Grey,Belt,Cultural Day
+S0268,Female,Blazer,Shorts,White,Tie,Graduation
+S0269,Male,Shirt,Trousers,Black,Badge,Graduation
+S0270,Male,Shirt,Skirt,White,Badge,Cultural Day
+S0271,Female,Shirt,Trousers,Red,None,Sports Day
+S0272,Male,Blazer,Shorts,Green,Belt,Sports Day
+S0273,Male,Gown,Shorts,Blue,Hat,Assembly
+S0274,Male,Gown,Skirt,Red,Belt,Cultural Day
+S0275,Female,Blazer,Trousers,Grey,Hat,Cultural Day
+S0276,Female,Blazer,Shorts,Grey,None,Assembly
+S0277,Female,Gown,Shorts,Red,Tie,Cultural Day
+S0278,Male,Shirt,Skirt,Green,Tie,Sports Day
+S0279,Female,Shirt,Skirt,Green,Badge,Cultural Day
+S0280,Female,Blazer,Trousers,Green,Scarf,Graduation
+S0281,Female,Gown,Trousers,Blue,None,Regular Day
+S0282,Male,Blazer,Trousers,White,Scarf,Graduation
+S0283,Female,Shirt,Trousers,Black,Hat,Cultural Day
+S0284,Female,Shirt,Trousers,Yellow,Scarf,Cultural Day
+S0285,Male,Gown,Skirt,Black,Hat,Regular Day
+S0286,Male,Shirt,Trousers,Black,Scarf,Assembly
+S0287,Male,Gown,Trousers,Blue,Hat,Sports Day
+S0288,Female,Shirt,Shorts,Green,Scarf,Sports Day
+S0289,Female,Blazer,Trousers,Yellow,Badge,Graduation
+S0290,Female,Blazer,Trousers,White,Hat,Cultural Day
+S0291,Male,Blazer,Skirt,Blue,Badge,Graduation
+S0292,Female,Blazer,Shorts,Green,Tie,Graduation
+S0293,Female,Gown,Trousers,Grey,Scarf,Regular Day
+S0294,Male,Shirt,Skirt,White,Tie,Sports Day
+S0295,Male,Shirt,Skirt,Red,None,Sports Day
+S0296,Female,Shirt,Skirt,Grey,Hat,Sports Day
+S0297,Male,Blazer,Trousers,Grey,Tie,Assembly
+S0298,Female,Shirt,Shorts,Red,Badge,Graduation
+S0299,Male,Blazer,Shorts,Green,None,Cultural Day
+S0300,Female,Gown,Skirt,Yellow,Badge,Regular Day
+S0301,Male,Blazer,Trousers,Red,Tie,Cultural Day
+S0302,Female,Blazer,Skirt,White,Tie,Cultural Day
+S0303,Male,Gown,Skirt,Green,Hat,Regular Day
+S0304,Female,Gown,Trousers,Yellow,Belt,Assembly
+S0305,Male,Gown,Shorts,Blue,Scarf,Graduation
+S0306,Female,Blazer,Shorts,Yellow,Belt,Sports Day
+S0307,Female,Shirt,Trousers,Red,Belt,Regular Day
+S0308,Male,Shirt,Shorts,Yellow,None,Graduation
+S0309,Male,Blazer,Shorts,Grey,Belt,Regular Day
+S0310,Male,Gown,Trousers,Black,Badge,Assembly
+S0311,Female,Shirt,Skirt,Blue,None,Regular Day
+S0312,Male,Blazer,Trousers,Yellow,Hat,Regular Day
+S0313,Male,Blazer,Trousers,Grey,Belt,Cultural Day
+S0314,Female,Gown,Shorts,White,Badge,Assembly
+S0315,Male,Shirt,Trousers,Yellow,None,Cultural Day
+S0316,Female,Shirt,Trousers,Blue,None,Regular Day
+S0317,Female,Blazer,Skirt,Red,Belt,Cultural Day
+S0318,Male,Blazer,Shorts,Grey,Hat,Regular Day
+S0319,Male,Shirt,Shorts,White,Badge,Sports Day
+S0320,Female,Blazer,Trousers,Black,Hat,Assembly
+S0321,Male,Blazer,Skirt,Black,Belt,Regular Day
+S0322,Male,Blazer,Skirt,Blue,Tie,Sports Day
+S0323,Female,Gown,Trousers,White,Badge,Graduation
+S0324,Female,Blazer,Skirt,Blue,None,Graduation
+S0325,Female,Blazer,Shorts,Black,None,Assembly
+S0326,Male,Shirt,Shorts,Yellow,Belt,Graduation
+S0327,Male,Shirt,Shorts,Grey,Belt,Sports Day
+S0328,Female,Blazer,Trousers,Blue,Belt,Cultural Day
+S0329,Female,Blazer,Trousers,Blue,Hat,Cultural Day
+S0330,Male,Blazer,Skirt,Grey,Belt,Sports Day
+S0331,Male,Gown,Trousers,Blue,None,Graduation
+S0332,Female,Gown,Shorts,White,Hat,Regular Day
+S0333,Male,Blazer,Shorts,Grey,None,Sports Day
+S0334,Female,Gown,Trousers,Blue,Belt,Assembly
+S0335,Male,Blazer,Skirt,Blue,Scarf,Cultural Day
+S0336,Male,Shirt,Skirt,Black,Scarf,Regular Day
+S0337,Male,Gown,Trousers,Black,Badge,Sports Day
+S0338,Male,Gown,Trousers,Yellow,Badge,Regular Day
+S0339,Male,Gown,Skirt,White,Belt,Cultural Day
+S0340,Female,Blazer,Shorts,Red,Tie,Graduation
+S0341,Female,Blazer,Trousers,Blue,Scarf,Sports Day
+S0342,Male,Blazer,Trousers,Green,Tie,Regular Day
+S0343,Female,Gown,Trousers,Grey,Scarf,Sports Day
+S0344,Female,Gown,Trousers,White,Belt,Assembly
+S0345,Male,Blazer,Skirt,Green,None,Sports Day
+S0346,Male,Gown,Trousers,Yellow,None,Sports Day
+S0347,Female,Shirt,Skirt,Green,Scarf,Graduation
+S0348,Male,Shirt,Skirt,White,Badge,Assembly
+S0349,Male,Shirt,Shorts,Red,Tie,Graduation
+S0350,Female,Gown,Skirt,Grey,Hat,Assembly
+S0351,Male,Gown,Trousers,Blue,None,Regular Day
+S0352,Male,Shirt,Trousers,Yellow,Hat,Graduation
+S0353,Male,Blazer,Skirt,Yellow,None,Assembly
+S0354,Female,Blazer,Skirt,Blue,None,Cultural Day
+S0355,Male,Gown,Trousers,Green,Hat,Cultural Day
+S0356,Female,Blazer,Shorts,Red,Belt,Cultural Day
+S0357,Female,Gown,Shorts,Yellow,Tie,Cultural Day
+S0358,Male,Shirt,Trousers,Black,None,Sports Day
+S0359,Female,Gown,Trousers,Red,Badge,Assembly
+S0360,Male,Gown,Shorts,Blue,Belt,Assembly
+S0361,Female,Blazer,Skirt,Blue,None,Cultural Day
+S0362,Male,Gown,Trousers,Yellow,None,Graduation
+S0363,Male,Blazer,Trousers,Red,None,Sports Day
+S0364,Male,Gown,Skirt,Grey,Scarf,Regular Day
+S0365,Male,Shirt,Shorts,Red,Badge,Regular Day
+S0366,Female,Shirt,Trousers,Yellow,Belt,Assembly
+S0367,Male,Blazer,Skirt,Yellow,Belt,Regular Day
+S0368,Female,Gown,Trousers,Grey,Belt,Regular Day
+S0369,Female,Shirt,Shorts,Yellow,Belt,Cultural Day
+S0370,Male,Gown,Trousers,Black,Scarf,Sports Day
+S0371,Male,Shirt,Skirt,Blue,Hat,Sports Day
+S0372,Female,Blazer,Skirt,Green,Badge,Regular Day
+S0373,Male,Gown,Shorts,White,Belt,Cultural Day
+S0374,Male,Shirt,Skirt,Yellow,Badge,Sports Day
+S0375,Female,Gown,Shorts,Black,Tie,Regular Day
+S0376,Male,Blazer,Trousers,Blue,Tie,Assembly
+S0377,Female,Gown,Trousers,Yellow,Scarf,Regular Day
+S0378,Female,Blazer,Shorts,White,Scarf,Sports Day
+S0379,Female,Shirt,Shorts,White,Badge,Assembly
+S0380,Female,Blazer,Skirt,Red,Scarf,Assembly
+S0381,Male,Shirt,Skirt,Blue,Belt,Cultural Day
+S0382,Male,Blazer,Shorts,Blue,Hat,Graduation
+S0383,Female,Gown,Skirt,Green,Tie,Regular Day
+S0384,Female,Shirt,Trousers,Red,Belt,Regular Day
+S0385,Female,Shirt,Skirt,Blue,Badge,Regular Day
+S0386,Male,Shirt,Trousers,Yellow,Belt,Sports Day
+S0387,Female,Gown,Skirt,Black,Belt,Sports Day
+S0388,Female,Gown,Trousers,Green,Badge,Assembly
+S0389,Female,Shirt,Skirt,Grey,Hat,Regular Day
+S0390,Male,Gown,Skirt,Red,Belt,Cultural Day
+S0391,Female,Gown,Trousers,Yellow,Hat,Cultural Day
+S0392,Female,Gown,Trousers,White,Scarf,Sports Day
+S0393,Female,Blazer,Skirt,Yellow,Hat,Assembly
+S0394,Male,Shirt,Skirt,Yellow,None,Sports Day
+S0395,Male,Gown,Trousers,Black,Scarf,Cultural Day
+S0396,Male,Gown,Skirt,Green,None,Cultural Day
+S0397,Male,Shirt,Shorts,Black,None,Assembly
+S0398,Female,Blazer,Trousers,White,Hat,Sports Day
+S0399,Female,Shirt,Shorts,White,Tie,Regular Day
+S0400,Female,Shirt,Trousers,Green,None,Cultural Day
+S0401,Female,Shirt,Shorts,Black,Belt,Regular Day
+S0402,Female,Blazer,Trousers,White,None,Cultural Day
+S0403,Male,Gown,Shorts,Blue,Badge,Cultural Day
+S0404,Male,Blazer,Skirt,White,Belt,Assembly
+S0405,Female,Blazer,Trousers,Blue,Badge,Graduation
+S0406,Female,Shirt,Skirt,White,Belt,Graduation
+S0407,Male,Gown,Skirt,Yellow,Badge,Assembly
+S0408,Female,Shirt,Shorts,White,Tie,Sports Day
+S0409,Male,Shirt,Trousers,Black,Badge,Cultural Day
+S0410,Female,Shirt,Trousers,Yellow,None,Regular Day
+S0411,Male,Shirt,Shorts,Green,Tie,Cultural Day
+S0412,Male,Blazer,Skirt,Black,Hat,Sports Day
+S0413,Male,Shirt,Shorts,Black,Hat,Cultural Day
+S0414,Male,Gown,Skirt,Green,Hat,Sports Day
+S0415,Male,Shirt,Trousers,Grey,None,Regular Day
+S0416,Male,Blazer,Trousers,Yellow,Hat,Graduation
+S0417,Female,Shirt,Trousers,Yellow,None,Graduation
+S0418,Female,Gown,Shorts,Red,Hat,Sports Day
+S0419,Male,Blazer,Shorts,White,None,Sports Day
+S0420,Male,Gown,Skirt,Red,Hat,Assembly
+S0421,Female,Shirt,Skirt,Blue,Hat,Cultural Day
+S0422,Female,Shirt,Shorts,Red,Badge,Cultural Day
+S0423,Male,Blazer,Shorts,Green,Belt,Cultural Day
+S0424,Female,Blazer,Skirt,Black,Badge,Regular Day
+S0425,Male,Blazer,Shorts,Red,Hat,Regular Day
+S0426,Male,Shirt,Skirt,Yellow,Scarf,Regular Day
+S0427,Male,Shirt,Shorts,Red,Belt,Assembly
+S0428,Male,Gown,Trousers,Blue,None,Graduation
+S0429,Male,Blazer,Shorts,Red,Badge,Sports Day
+S0430,Female,Gown,Skirt,Black,Badge,Sports Day
+S0431,Female,Gown,Skirt,Black,Scarf,Graduation
+S0432,Male,Blazer,Skirt,Green,Badge,Assembly
+S0433,Female,Shirt,Skirt,White,Belt,Graduation
+S0434,Male,Shirt,Shorts,Grey,Badge,Regular Day
+S0435,Female,Shirt,Trousers,White,Scarf,Cultural Day
+S0436,Male,Blazer,Trousers,Yellow,Hat,Sports Day
+S0437,Male,Blazer,Trousers,Grey,Scarf,Assembly
+S0438,Female,Blazer,Skirt,Green,Hat,Assembly
+S0439,Female,Gown,Shorts,Grey,Scarf,Regular Day
+S0440,Female,Shirt,Trousers,Blue,Badge,Cultural Day
+S0441,Female,Shirt,Skirt,Yellow,Tie,Regular Day
+S0442,Male,Gown,Trousers,Red,Scarf,Sports Day
+S0443,Female,Shirt,Trousers,Red,None,Graduation
+S0444,Male,Gown,Trousers,Black,None,Regular Day
+S0445,Male,Blazer,Trousers,Green,Tie,Sports Day
+S0446,Female,Gown,Shorts,Yellow,Badge,Graduation
+S0447,Male,Gown,Shorts,Black,Scarf,Assembly
+S0448,Male,Gown,Shorts,Green,None,Assembly
+S0449,Male,Gown,Skirt,Blue,Scarf,Sports Day
+S0450,Female,Shirt,Shorts,Grey,Scarf,Sports Day
+S0451,Male,Gown,Skirt,Green,Badge,Assembly
+S0452,Female,Gown,Shorts,Blue,Badge,Sports Day
+S0453,Male,Shirt,Skirt,White,Belt,Cultural Day
+S0454,Male,Shirt,Shorts,Grey,Badge,Assembly
+S0455,Male,Gown,Trousers,Black,Belt,Regular Day
+S0456,Male,Gown,Trousers,Yellow,None,Sports Day
+S0457,Female,Blazer,Shorts,Black,Scarf,Cultural Day
+S0458,Female,Blazer,Shorts,Red,Belt,Graduation
+S0459,Male,Blazer,Shorts,Blue,Belt,Cultural Day
+S0460,Female,Gown,Trousers,Blue,None,Sports Day
+S0461,Female,Shirt,Skirt,Grey,Belt,Cultural Day
+S0462,Female,Gown,Skirt,Red,None,Regular Day
+S0463,Male,Gown,Shorts,Blue,Scarf,Regular Day
+S0464,Female,Shirt,Trousers,Grey,Hat,Sports Day
+S0465,Female,Shirt,Skirt,Grey,Tie,Graduation
+S0466,Male,Shirt,Skirt,Red,Belt,Graduation
+S0467,Female,Shirt,Trousers,Red,Scarf,Graduation
+S0468,Male,Blazer,Skirt,Green,Badge,Sports Day
+S0469,Male,Blazer,Trousers,White,Scarf,Cultural Day
+S0470,Male,Shirt,Trousers,Green,Scarf,Sports Day
+S0471,Female,Shirt,Trousers,Blue,Badge,Sports Day
+S0472,Male,Blazer,Trousers,White,Tie,Sports Day
+S0473,Female,Shirt,Shorts,Black,Scarf,Regular Day
+S0474,Male,Gown,Trousers,Yellow,None,Regular Day
+S0475,Female,Gown,Skirt,Black,Scarf,Sports Day
+S0476,Female,Gown,Shorts,Black,Tie,Cultural Day
+S0477,Female,Gown,Shorts,Black,Hat,Assembly
+S0478,Female,Shirt,Skirt,White,Tie,Sports Day
+S0479,Female,Shirt,Shorts,Grey,Belt,Sports Day
+S0480,Female,Blazer,Trousers,White,Hat,Sports Day
+S0481,Female,Gown,Trousers,Green,Scarf,Cultural Day
+S0482,Female,Shirt,Trousers,Blue,Belt,Sports Day
+S0483,Female,Gown,Trousers,Red,Badge,Assembly
+S0484,Female,Gown,Trousers,Red,Scarf,Graduation
+S0485,Male,Blazer,Shorts,Green,Badge,Graduation
+S0486,Female,Gown,Shorts,Grey,Belt,Cultural Day
+S0487,Male,Shirt,Trousers,Blue,None,Graduation
+S0488,Male,Gown,Trousers,Green,Hat,Cultural Day
+S0489,Male,Gown,Trousers,White,Scarf,Sports Day
+S0490,Male,Shirt,Trousers,Black,Scarf,Cultural Day
+S0491,Female,Gown,Trousers,Yellow,None,Sports Day
+S0492,Male,Shirt,Skirt,White,Tie,Graduation
+S0493,Female,Gown,Trousers,Green,Hat,Regular Day
+S0494,Female,Shirt,Trousers,Yellow,Scarf,Cultural Day
+S0495,Female,Blazer,Skirt,Green,Badge,Regular Day
+S0496,Male,Shirt,Skirt,Blue,Tie,Regular Day
+S0497,Male,Blazer,Shorts,White,Hat,Graduation
+S0498,Female,Gown,Shorts,Blue,Scarf,Assembly
+S0499,Male,Shirt,Trousers,Red,Hat,Assembly
+S0500,Female,Shirt,Trousers,Green,None,Sports Day
+S0501,Male,Blazer,Trousers,Yellow,Badge,Cultural Day
+S0502,Female,Blazer,Skirt,Black,None,Assembly
+S0503,Female,Gown,Trousers,Red,Belt,Graduation
+S0504,Male,Blazer,Shorts,White,Hat,Cultural Day
+S0505,Female,Shirt,Shorts,Yellow,Tie,Assembly
+S0506,Female,Blazer,Shorts,Yellow,Badge,Assembly
+S0507,Male,Shirt,Skirt,Yellow,None,Graduation
+S0508,Female,Gown,Skirt,Grey,Belt,Sports Day
+S0509,Female,Gown,Shorts,Red,None,Sports Day
+S0510,Female,Shirt,Shorts,White,Belt,Regular Day
+S0511,Male,Gown,Trousers,White,Hat,Regular Day
+S0512,Female,Gown,Trousers,White,Badge,Regular Day
+S0513,Male,Shirt,Shorts,Black,Tie,Assembly
+S0514,Male,Shirt,Shorts,Red,Badge,Regular Day
+S0515,Female,Shirt,Skirt,Red,Belt,Graduation
+S0516,Male,Gown,Shorts,Grey,Tie,Regular Day
+S0517,Male,Gown,Skirt,Yellow,Tie,Graduation
+S0518,Male,Shirt,Skirt,Blue,Scarf,Graduation
+S0519,Male,Gown,Skirt,Black,None,Regular Day
+S0520,Female,Blazer,Trousers,White,Belt,Sports Day
+S0521,Female,Shirt,Trousers,Blue,Belt,Sports Day
+S0522,Male,Blazer,Skirt,Green,Badge,Cultural Day
+S0523,Female,Shirt,Shorts,Yellow,Hat,Assembly
+S0524,Male,Shirt,Skirt,White,Scarf,Regular Day
+S0525,Male,Gown,Trousers,Yellow,None,Cultural Day
+S0526,Female,Blazer,Skirt,White,Scarf,Regular Day
+S0527,Male,Gown,Skirt,Blue,Belt,Assembly
+S0528,Male,Shirt,Shorts,Grey,None,Regular Day
+S0529,Female,Gown,Skirt,Grey,Badge,Graduation
+S0530,Female,Gown,Trousers,Black,None,Cultural Day
+S0531,Male,Shirt,Shorts,Green,Badge,Graduation
+S0532,Male,Gown,Skirt,Yellow,None,Cultural Day
+S0533,Male,Blazer,Shorts,White,Scarf,Cultural Day
+S0534,Male,Blazer,Trousers,Yellow,Badge,Regular Day
+S0535,Male,Gown,Shorts,White,Belt,Assembly
+S0536,Male,Shirt,Skirt,Yellow,Scarf,Assembly
+S0537,Female,Shirt,Skirt,Green,Scarf,Graduation
+S0538,Female,Gown,Skirt,Red,Hat,Regular Day
+S0539,Male,Blazer,Shorts,White,Tie,Graduation
+S0540,Male,Gown,Skirt,Yellow,Tie,Sports Day
+S0541,Male,Blazer,Shorts,Blue,Badge,Graduation
+S0542,Male,Blazer,Shorts,Blue,None,Graduation
+S0543,Female,Gown,Shorts,Blue,Hat,Assembly
+S0544,Male,Shirt,Trousers,Yellow,Scarf,Sports Day
+S0545,Female,Blazer,Skirt,Grey,None,Cultural Day
+S0546,Male,Gown,Shorts,Blue,Tie,Regular Day
+S0547,Male,Gown,Skirt,Grey,Badge,Sports Day
+S0548,Male,Gown,Trousers,Blue,None,Cultural Day
+S0549,Male,Shirt,Skirt,Grey,None,Graduation
+S0550,Male,Blazer,Shorts,Green,Badge,Graduation
+S0551,Male,Shirt,Trousers,Red,Tie,Sports Day
+S0552,Female,Shirt,Trousers,Grey,Belt,Assembly
+S0553,Male,Gown,Skirt,Blue,Hat,Graduation
+S0554,Female,Gown,Skirt,Green,Scarf,Cultural Day
+S0555,Male,Gown,Skirt,Grey,Belt,Sports Day
+S0556,Male,Gown,Shorts,Grey,Hat,Sports Day
+S0557,Male,Gown,Shorts,Red,Belt,Sports Day
+S0558,Female,Blazer,Trousers,Blue,None,Sports Day
+S0559,Male,Gown,Shorts,Red,Scarf,Graduation
+S0560,Female,Gown,Skirt,Black,Scarf,Assembly
+S0561,Male,Shirt,Shorts,Grey,Belt,Assembly
+S0562,Male,Gown,Skirt,Grey,Hat,Graduation
+S0563,Male,Shirt,Trousers,Green,Scarf,Assembly
+S0564,Male,Shirt,Trousers,Black,Badge,Assembly
+S0565,Female,Blazer,Trousers,Green,Tie,Sports Day
+S0566,Male,Gown,Shorts,Blue,Tie,Graduation
+S0567,Male,Gown,Skirt,Grey,Belt,Sports Day
+S0568,Male,Blazer,Shorts,Black,Hat,Regular Day
+S0569,Female,Shirt,Shorts,Black,Hat,Sports Day
+S0570,Female,Shirt,Skirt,Yellow,None,Sports Day
+S0571,Female,Gown,Skirt,Black,Badge,Assembly
+S0572,Female,Blazer,Skirt,White,Hat,Regular Day
+S0573,Male,Blazer,Shorts,Black,Belt,Sports Day
+S0574,Female,Gown,Skirt,Yellow,Badge,Graduation
+S0575,Male,Blazer,Trousers,Green,Badge,Sports Day
+S0576,Female,Shirt,Shorts,Red,Scarf,Graduation
+S0577,Female,Blazer,Trousers,White,Belt,Assembly
+S0578,Male,Shirt,Skirt,Green,Hat,Regular Day
+S0579,Female,Shirt,Trousers,Grey,Scarf,Cultural Day
+S0580,Female,Blazer,Trousers,Red,Scarf,Assembly
+S0581,Male,Blazer,Trousers,Black,None,Regular Day
+S0582,Male,Gown,Shorts,Black,None,Graduation
+S0583,Male,Shirt,Skirt,White,Belt,Cultural Day
+S0584,Female,Blazer,Shorts,Blue,Belt,Cultural Day
+S0585,Female,Gown,Skirt,Blue,Badge,Cultural Day
+S0586,Female,Gown,Shorts,Yellow,Scarf,Regular Day
+S0587,Male,Gown,Shorts,White,Scarf,Assembly
+S0588,Female,Blazer,Trousers,Red,Tie,Cultural Day
+S0589,Male,Shirt,Shorts,Black,Badge,Graduation
+S0590,Female,Blazer,Skirt,Yellow,Belt,Assembly
+S0591,Male,Blazer,Shorts,Blue,Scarf,Graduation
+S0592,Male,Shirt,Shorts,Blue,Tie,Sports Day
+S0593,Male,Shirt,Skirt,Red,Scarf,Regular Day
+S0594,Female,Gown,Skirt,Blue,Badge,Assembly
+S0595,Male,Blazer,Shorts,Blue,Badge,Regular Day
+S0596,Female,Blazer,Skirt,Red,Badge,Sports Day
+S0597,Male,Gown,Skirt,Yellow,Hat,Assembly
+S0598,Male,Blazer,Shorts,Yellow,Belt,Graduation
+S0599,Male,Blazer,Skirt,Green,Tie,Regular Day
+S0600,Female,Shirt,Skirt,Yellow,Tie,Graduation
+S0601,Male,Gown,Skirt,Black,Scarf,Graduation
+S0602,Male,Shirt,Shorts,White,Belt,Regular Day
+S0603,Female,Shirt,Shorts,Grey,Badge,Graduation
+S0604,Male,Blazer,Trousers,Green,Badge,Graduation
+S0605,Male,Shirt,Trousers,Red,Scarf,Graduation
+S0606,Female,Gown,Trousers,White,Badge,Sports Day
+S0607,Female,Shirt,Skirt,Blue,Hat,Sports Day
+S0608,Male,Shirt,Trousers,Blue,Belt,Cultural Day
+S0609,Male,Shirt,Skirt,Red,Belt,Sports Day
+S0610,Male,Shirt,Trousers,White,Badge,Assembly
+S0611,Male,Blazer,Shorts,Green,Belt,Regular Day
+S0612,Male,Shirt,Shorts,White,Belt,Sports Day
+S0613,Male,Shirt,Shorts,White,Tie,Regular Day
+S0614,Male,Shirt,Trousers,Red,Belt,Graduation
+S0615,Female,Shirt,Shorts,Yellow,Scarf,Graduation
+S0616,Female,Gown,Shorts,Black,Belt,Sports Day
+S0617,Female,Shirt,Skirt,Blue,Scarf,Assembly
+S0618,Female,Gown,Skirt,Red,Hat,Regular Day
+S0619,Male,Gown,Shorts,Black,None,Sports Day
+S0620,Female,Gown,Shorts,Grey,Tie,Sports Day
+S0621,Male,Gown,Trousers,Grey,Tie,Cultural Day
+S0622,Female,Blazer,Skirt,Grey,Badge,Sports Day
+S0623,Male,Shirt,Skirt,Grey,Scarf,Cultural Day
+S0624,Female,Shirt,Trousers,Blue,Tie,Cultural Day
+S0625,Female,Shirt,Trousers,Red,Tie,Sports Day
+S0626,Male,Gown,Shorts,Grey,Tie,Assembly
+S0627,Female,Blazer,Skirt,Green,None,Cultural Day
+S0628,Male,Shirt,Trousers,Grey,Badge,Regular Day
+S0629,Female,Shirt,Skirt,Yellow,Hat,Assembly
+S0630,Male,Gown,Shorts,Black,Tie,Cultural Day
+S0631,Female,Gown,Skirt,Red,Hat,Graduation
+S0632,Female,Gown,Skirt,Black,Belt,Graduation
+S0633,Female,Shirt,Shorts,Blue,Hat,Sports Day
+S0634,Male,Shirt,Skirt,Yellow,Scarf,Regular Day
+S0635,Male,Shirt,Shorts,Black,Tie,Sports Day
+S0636,Female,Shirt,Trousers,Red,Tie,Regular Day
+S0637,Male,Shirt,Skirt,Grey,Hat,Assembly
+S0638,Male,Shirt,Skirt,Green,Tie,Cultural Day
+S0639,Male,Shirt,Shorts,White,Badge,Regular Day
+S0640,Female,Gown,Skirt,Red,Scarf,Graduation
+S0641,Female,Gown,Trousers,Blue,Badge,Regular Day
+S0642,Female,Blazer,Shorts,Blue,Scarf,Graduation
+S0643,Male,Blazer,Trousers,White,Scarf,Assembly
+S0644,Female,Shirt,Trousers,Red,Scarf,Graduation
+S0645,Female,Gown,Trousers,Green,Scarf,Assembly
+S0646,Female,Blazer,Shorts,Black,Belt,Regular Day
+S0647,Female,Shirt,Shorts,Black,Badge,Regular Day
+S0648,Male,Blazer,Skirt,Black,Scarf,Graduation
+S0649,Male,Shirt,Trousers,Green,Hat,Cultural Day
+S0650,Female,Blazer,Trousers,Blue,Tie,Assembly
+S0651,Male,Blazer,Skirt,Yellow,Badge,Regular Day
+S0652,Female,Blazer,Shorts,Black,Hat,Regular Day
+S0653,Male,Blazer,Skirt,Green,Badge,Graduation
+S0654,Male,Blazer,Shorts,Black,Belt,Sports Day
+S0655,Female,Blazer,Shorts,Yellow,None,Sports Day
+S0656,Male,Shirt,Skirt,Yellow,Scarf,Graduation
+S0657,Female,Gown,Trousers,Red,Scarf,Sports Day
+S0658,Male,Blazer,Trousers,White,Badge,Graduation
+S0659,Male,Gown,Skirt,White,Tie,Cultural Day
+S0660,Male,Blazer,Skirt,Grey,Tie,Assembly
+S0661,Male,Shirt,Trousers,White,Hat,Regular Day
+S0662,Female,Gown,Trousers,Green,Tie,Graduation
+S0663,Male,Blazer,Skirt,Blue,Belt,Cultural Day
+S0664,Male,Blazer,Trousers,White,Hat,Sports Day
+S0665,Female,Gown,Skirt,Green,Belt,Graduation
+S0666,Male,Gown,Trousers,Blue,Tie,Assembly
+S0667,Male,Shirt,Shorts,Red,Tie,Assembly
+S0668,Female,Shirt,Skirt,Blue,Tie,Sports Day
+S0669,Male,Gown,Shorts,Yellow,None,Graduation
+S0670,Female,Gown,Skirt,Yellow,Scarf,Sports Day
+S0671,Male,Gown,Skirt,Yellow,None,Sports Day
+S0672,Male,Gown,Shorts,Green,Hat,Sports Day
+S0673,Male,Gown,Skirt,Red,Belt,Sports Day
+S0674,Female,Blazer,Shorts,Black,Tie,Cultural Day
+S0675,Male,Gown,Shorts,Red,Tie,Sports Day
+S0676,Female,Shirt,Shorts,Yellow,Tie,Cultural Day
+S0677,Female,Shirt,Shorts,Yellow,Hat,Sports Day
+S0678,Female,Shirt,Trousers,Red,Scarf,Assembly
+S0679,Male,Gown,Skirt,Grey,Belt,Cultural Day
+S0680,Female,Shirt,Skirt,Blue,Tie,Assembly
+S0681,Female,Shirt,Skirt,Yellow,Hat,Graduation
+S0682,Male,Blazer,Skirt,White,Scarf,Graduation
+S0683,Male,Blazer,Shorts,Blue,Badge,Sports Day
+S0684,Female,Shirt,Trousers,Red,Scarf,Assembly
+S0685,Male,Shirt,Shorts,Yellow,Hat,Graduation
+S0686,Female,Shirt,Trousers,Yellow,Tie,Sports Day
+S0687,Male,Gown,Shorts,Red,Badge,Cultural Day
+S0688,Male,Blazer,Shorts,Green,Badge,Graduation
+S0689,Male,Shirt,Trousers,Grey,Hat,Regular Day
+S0690,Female,Shirt,Skirt,Blue,Badge,Graduation
+S0691,Male,Gown,Shorts,Black,Belt,Assembly
+S0692,Female,Shirt,Shorts,Grey,Belt,Sports Day
+S0693,Female,Blazer,Shorts,Yellow,None,Regular Day
+S0694,Male,Gown,Shorts,Blue,Belt,Cultural Day
+S0695,Male,Blazer,Skirt,Grey,Scarf,Sports Day
+S0696,Male,Shirt,Trousers,Grey,Badge,Graduation
+S0697,Female,Gown,Trousers,Red,Hat,Cultural Day
+S0698,Female,Gown,Trousers,Red,Hat,Cultural Day
+S0699,Female,Blazer,Shorts,White,None,Assembly
+S0700,Male,Gown,Trousers,Green,Hat,Graduation
+S0701,Female,Blazer,Skirt,Yellow,Tie,Regular Day
+S0702,Male,Blazer,Skirt,Blue,Belt,Assembly
+S0703,Female,Gown,Trousers,Black,Hat,Cultural Day
+S0704,Male,Gown,Skirt,Red,Tie,Cultural Day
+S0705,Male,Blazer,Trousers,Yellow,Belt,Regular Day
+S0706,Female,Shirt,Shorts,Grey,Scarf,Cultural Day
+S0707,Female,Blazer,Shorts,White,Badge,Cultural Day
+S0708,Female,Blazer,Skirt,Black,Badge,Sports Day
+S0709,Female,Shirt,Skirt,Grey,None,Assembly
+S0710,Female,Gown,Shorts,Black,Badge,Graduation
+S0711,Male,Shirt,Shorts,Red,Badge,Regular Day
+S0712,Female,Blazer,Skirt,Blue,Hat,Cultural Day
+S0713,Female,Gown,Trousers,Blue,Scarf,Sports Day
+S0714,Male,Gown,Skirt,Yellow,Belt,Regular Day
+S0715,Male,Shirt,Shorts,Blue,Tie,Sports Day
+S0716,Female,Blazer,Trousers,Red,Tie,Sports Day
+S0717,Female,Shirt,Skirt,Yellow,None,Regular Day
+S0718,Female,Gown,Shorts,Blue,Badge,Cultural Day
+S0719,Male,Gown,Trousers,Yellow,Tie,Regular Day
+S0720,Female,Shirt,Skirt,White,Tie,Graduation
+S0721,Female,Gown,Shorts,Blue,None,Sports Day
+S0722,Male,Gown,Shorts,Green,Belt,Assembly
+S0723,Male,Blazer,Skirt,White,Tie,Cultural Day
+S0724,Female,Blazer,Shorts,White,Scarf,Graduation
+S0725,Male,Blazer,Skirt,Red,Scarf,Assembly
+S0726,Male,Shirt,Trousers,Red,None,Regular Day
+S0727,Male,Blazer,Skirt,Black,Hat,Regular Day
+S0728,Female,Blazer,Skirt,Green,Badge,Graduation
+S0729,Male,Gown,Shorts,Red,Hat,Sports Day
+S0730,Female,Shirt,Shorts,Red,None,Sports Day
+S0731,Male,Blazer,Shorts,Black,Hat,Regular Day
+S0732,Male,Blazer,Trousers,Blue,Badge,Sports Day
+S0733,Female,Shirt,Trousers,Blue,Badge,Assembly
+S0734,Male,Blazer,Skirt,Green,None,Assembly
+S0735,Male,Blazer,Trousers,White,Scarf,Graduation
+S0736,Male,Shirt,Skirt,Blue,Badge,Graduation
+S0737,Female,Blazer,Shorts,Yellow,Belt,Regular Day
+S0738,Female,Gown,Shorts,Yellow,Badge,Assembly
+S0739,Male,Shirt,Shorts,Blue,Badge,Assembly
+S0740,Male,Gown,Skirt,Yellow,Scarf,Regular Day
+S0741,Female,Gown,Shorts,Green,Badge,Graduation
+S0742,Male,Gown,Trousers,Black,Belt,Assembly
+S0743,Male,Blazer,Skirt,Green,Tie,Regular Day
+S0744,Female,Shirt,Shorts,Yellow,None,Cultural Day
+S0745,Male,Blazer,Trousers,Blue,Hat,Regular Day
+S0746,Female,Blazer,Skirt,White,None,Regular Day
+S0747,Male,Gown,Trousers,Green,Badge,Assembly
+S0748,Female,Shirt,Shorts,Blue,Badge,Cultural Day
+S0749,Female,Shirt,Skirt,Grey,Hat,Regular Day
+S0750,Female,Shirt,Trousers,Green,Belt,Sports Day
+S0751,Male,Blazer,Skirt,Grey,Hat,Graduation
+S0752,Male,Blazer,Skirt,White,Scarf,Sports Day
+S0753,Male,Shirt,Skirt,Green,Tie,Assembly
+S0754,Male,Gown,Trousers,Grey,Tie,Assembly
+S0755,Male,Shirt,Shorts,Red,Hat,Graduation
+S0756,Female,Gown,Skirt,Red,Badge,Regular Day
+S0757,Female,Blazer,Trousers,Blue,Tie,Sports Day
+S0758,Female,Gown,Trousers,Yellow,Hat,Cultural Day
+S0759,Male,Gown,Skirt,Red,Tie,Assembly
+S0760,Female,Blazer,Skirt,Blue,Belt,Regular Day
+S0761,Female,Gown,Shorts,White,Tie,Assembly
+S0762,Female,Gown,Skirt,Red,Badge,Assembly
+S0763,Female,Gown,Shorts,Black,Hat,Graduation
+S0764,Male,Shirt,Shorts,Black,Belt,Assembly
+S0765,Male,Gown,Trousers,Green,None,Assembly
+S0766,Male,Gown,Trousers,Red,Tie,Graduation
+S0767,Male,Blazer,Shorts,Blue,None,Graduation
+S0768,Male,Shirt,Skirt,Yellow,Hat,Regular Day
+S0769,Female,Gown,Trousers,Yellow,Tie,Sports Day
+S0770,Female,Shirt,Shorts,Black,Badge,Graduation
+S0771,Female,Shirt,Skirt,Black,Tie,Graduation
+S0772,Male,Shirt,Trousers,White,Badge,Graduation
+S0773,Male,Shirt,Shorts,Yellow,Scarf,Sports Day
+S0774,Male,Blazer,Shorts,Yellow,Hat,Graduation
+S0775,Female,Shirt,Trousers,White,Tie,Regular Day
+S0776,Female,Shirt,Skirt,Yellow,Belt,Graduation
+S0777,Male,Blazer,Trousers,Red,Scarf,Cultural Day
+S0778,Male,Shirt,Trousers,Green,Hat,Assembly
+S0779,Male,Shirt,Shorts,Red,Badge,Cultural Day
+S0780,Male,Blazer,Skirt,Blue,None,Assembly
+S0781,Male,Blazer,Shorts,Yellow,Badge,Graduation
+S0782,Male,Blazer,Shorts,White,None,Regular Day
+S0783,Female,Blazer,Shorts,Green,Tie,Assembly
+S0784,Male,Blazer,Trousers,Green,Scarf,Assembly
+S0785,Female,Blazer,Skirt,Red,Tie,Graduation
+S0786,Female,Gown,Skirt,Yellow,Hat,Cultural Day
+S0787,Male,Shirt,Trousers,White,Belt,Cultural Day
+S0788,Female,Blazer,Trousers,Red,Hat,Regular Day
+S0789,Female,Shirt,Trousers,Grey,Badge,Graduation
+S0790,Male,Blazer,Trousers,Yellow,Badge,Sports Day
+S0791,Male,Gown,Skirt,Blue,Belt,Cultural Day
+S0792,Male,Blazer,Shorts,Black,Badge,Cultural Day
+S0793,Female,Shirt,Skirt,Black,Tie,Assembly
+S0794,Male,Shirt,Shorts,Green,Tie,Cultural Day
+S0795,Male,Shirt,Trousers,Green,Scarf,Cultural Day
+S0796,Female,Shirt,Trousers,Grey,Badge,Assembly
+S0797,Male,Gown,Shorts,Green,None,Sports Day
+S0798,Male,Gown,Trousers,Green,Scarf,Assembly
+S0799,Female,Blazer,Skirt,Grey,None,Regular Day
+S0800,Male,Shirt,Shorts,Red,Hat,Graduation
+S0801,Female,Gown,Shorts,Yellow,Tie,Graduation
+S0802,Female,Shirt,Skirt,Yellow,None,Sports Day
+S0803,Male,Blazer,Shorts,Green,Badge,Graduation
+S0804,Female,Shirt,Shorts,Black,None,Assembly
+S0805,Female,Gown,Skirt,Green,Belt,Assembly
+S0806,Male,Gown,Skirt,Black,Hat,Cultural Day
+S0807,Male,Gown,Skirt,Black,Tie,Regular Day
+S0808,Female,Gown,Shorts,Blue,None,Cultural Day
+S0809,Male,Blazer,Trousers,Yellow,None,Cultural Day
+S0810,Female,Blazer,Skirt,Red,Scarf,Cultural Day
+S0811,Female,Shirt,Skirt,White,Scarf,Cultural Day
+S0812,Female,Gown,Trousers,Blue,Badge,Regular Day
+S0813,Male,Shirt,Shorts,Yellow,Tie,Sports Day
+S0814,Female,Blazer,Shorts,Yellow,Tie,Cultural Day
+S0815,Male,Gown,Shorts,White,Badge,Cultural Day
+S0816,Male,Shirt,Skirt,Black,Tie,Sports Day
+S0817,Male,Blazer,Skirt,White,Hat,Sports Day
+S0818,Female,Blazer,Trousers,Grey,Hat,Assembly
+S0819,Female,Blazer,Trousers,Yellow,Tie,Cultural Day
+S0820,Female,Blazer,Skirt,Grey,Scarf,Graduation
+S0821,Male,Shirt,Shorts,Grey,Hat,Assembly
+S0822,Male,Gown,Skirt,Blue,None,Regular Day
+S0823,Female,Blazer,Shorts,Red,Scarf,Cultural Day
+S0824,Female,Shirt,Shorts,Yellow,Badge,Graduation
+S0825,Male,Shirt,Shorts,Blue,None,Graduation
+S0826,Male,Shirt,Shorts,Red,None,Graduation
+S0827,Female,Blazer,Skirt,White,Hat,Graduation
+S0828,Male,Gown,Trousers,Green,Badge,Graduation
+S0829,Male,Blazer,Skirt,Grey,Hat,Sports Day
+S0830,Male,Blazer,Shorts,Black,Scarf,Assembly
+S0831,Male,Gown,Skirt,Green,Scarf,Regular Day
+S0832,Male,Gown,Skirt,Grey,Belt,Assembly
+S0833,Male,Gown,Skirt,Green,Tie,Assembly
+S0834,Male,Blazer,Skirt,Black,Belt,Regular Day
+S0835,Female,Gown,Skirt,Blue,Hat,Cultural Day
+S0836,Female,Gown,Trousers,Yellow,Belt,Sports Day
+S0837,Female,Shirt,Skirt,Black,None,Regular Day
+S0838,Male,Shirt,Trousers,Blue,Badge,Sports Day
+S0839,Male,Blazer,Trousers,Black,Belt,Graduation
+S0840,Male,Blazer,Trousers,Red,Badge,Sports Day
+S0841,Male,Blazer,Skirt,Red,Badge,Sports Day
+S0842,Female,Blazer,Shorts,Red,Badge,Cultural Day
+S0843,Male,Gown,Trousers,Green,Badge,Sports Day
+S0844,Female,Shirt,Trousers,White,None,Regular Day
+S0845,Female,Gown,Skirt,Red,Belt,Graduation
+S0846,Female,Shirt,Shorts,Red,Scarf,Assembly
+S0847,Male,Gown,Skirt,Green,None,Regular Day
+S0848,Female,Blazer,Shorts,Black,Hat,Regular Day
+S0849,Male,Gown,Trousers,Black,None,Regular Day
+S0850,Female,Shirt,Skirt,Grey,Tie,Assembly
+S0851,Male,Blazer,Trousers,Grey,Hat,Cultural Day
+S0852,Male,Shirt,Trousers,White,Tie,Regular Day
+S0853,Female,Blazer,Shorts,Blue,Badge,Assembly
+S0854,Male,Shirt,Skirt,White,None,Assembly
+S0855,Female,Blazer,Shorts,Grey,Scarf,Sports Day
+S0856,Male,Shirt,Trousers,Blue,Tie,Regular Day
+S0857,Female,Blazer,Trousers,Blue,Scarf,Graduation
+S0858,Female,Gown,Skirt,Black,Hat,Assembly
+S0859,Male,Blazer,Trousers,Grey,Hat,Regular Day
+S0860,Male,Blazer,Trousers,Black,Badge,Sports Day
+S0861,Male,Gown,Shorts,Black,Tie,Sports Day
+S0862,Female,Blazer,Skirt,Yellow,Badge,Assembly
+S0863,Male,Gown,Shorts,Yellow,Belt,Regular Day
+S0864,Female,Gown,Shorts,Green,Tie,Regular Day
+S0865,Male,Shirt,Shorts,Yellow,Belt,Cultural Day
+S0866,Male,Shirt,Skirt,Grey,Tie,Assembly
+S0867,Female,Blazer,Trousers,Grey,Badge,Assembly
+S0868,Male,Blazer,Skirt,Grey,Belt,Regular Day
+S0869,Male,Gown,Trousers,White,Scarf,Regular Day
+S0870,Male,Gown,Shorts,Grey,Badge,Graduation
+S0871,Male,Gown,Trousers,Yellow,Hat,Cultural Day
+S0872,Female,Blazer,Skirt,Black,Badge,Regular Day
+S0873,Male,Blazer,Skirt,Red,Scarf,Sports Day
+S0874,Male,Blazer,Skirt,Grey,Tie,Cultural Day
+S0875,Male,Shirt,Skirt,Yellow,Hat,Sports Day
+S0876,Male,Shirt,Skirt,White,None,Graduation
+S0877,Female,Gown,Shorts,Grey,Scarf,Sports Day
+S0878,Female,Blazer,Shorts,Grey,Hat,Sports Day
+S0879,Male,Shirt,Skirt,Red,Badge,Cultural Day
+S0880,Female,Gown,Trousers,Black,Scarf,Graduation
+S0881,Male,Shirt,Skirt,Green,Scarf,Cultural Day
+S0882,Female,Blazer,Trousers,Blue,Belt,Assembly
+S0883,Female,Shirt,Trousers,Yellow,Hat,Assembly
+S0884,Female,Blazer,Skirt,Green,Hat,Cultural Day
+S0885,Male,Gown,Trousers,Green,Badge,Graduation
+S0886,Male,Gown,Trousers,Red,Belt,Cultural Day
+S0887,Female,Gown,Skirt,Blue,Scarf,Sports Day
+S0888,Male,Blazer,Trousers,Green,Belt,Cultural Day
+S0889,Female,Gown,Trousers,Yellow,Scarf,Regular Day
+S0890,Female,Gown,Skirt,Black,Belt,Sports Day
+S0891,Female,Shirt,Skirt,Black,Badge,Regular Day
+S0892,Female,Gown,Shorts,Black,Hat,Graduation
+S0893,Male,Blazer,Trousers,Grey,Hat,Regular Day
+S0894,Male,Blazer,Shorts,Yellow,Hat,Graduation
+S0895,Female,Shirt,Skirt,Black,Belt,Regular Day
+S0896,Female,Gown,Shorts,Red,None,Graduation
+S0897,Female,Blazer,Shorts,Red,Scarf,Sports Day
+S0898,Female,Gown,Trousers,Blue,Hat,Cultural Day
+S0899,Female,Shirt,Skirt,Black,None,Cultural Day
+S0900,Male,Gown,Shorts,Blue,Badge,Graduation
+S0901,Male,Blazer,Skirt,Green,Badge,Cultural Day
+S0902,Male,Gown,Skirt,Yellow,Tie,Regular Day
+S0903,Male,Shirt,Shorts,White,Scarf,Graduation
+S0904,Male,Blazer,Trousers,Grey,None,Cultural Day
+S0905,Male,Gown,Shorts,Yellow,Belt,Regular Day
+S0906,Male,Shirt,Shorts,Green,Belt,Regular Day
+S0907,Male,Gown,Skirt,Black,Tie,Assembly
+S0908,Female,Shirt,Trousers,Black,Hat,Graduation
+S0909,Female,Blazer,Trousers,Green,Hat,Graduation
+S0910,Female,Blazer,Shorts,Red,Belt,Assembly
+S0911,Male,Blazer,Skirt,Red,Belt,Cultural Day
+S0912,Male,Gown,Shorts,Green,Hat,Sports Day
+S0913,Male,Shirt,Shorts,Black,Scarf,Regular Day
+S0914,Male,Shirt,Shorts,Blue,Tie,Regular Day
+S0915,Male,Gown,Shorts,Green,Tie,Regular Day
+S0916,Male,Gown,Shorts,Red,Badge,Graduation
+S0917,Female,Blazer,Shorts,Red,None,Graduation
+S0918,Male,Blazer,Skirt,Grey,Badge,Assembly
+S0919,Male,Shirt,Shorts,Green,None,Assembly
+S0920,Female,Gown,Trousers,Yellow,Badge,Assembly
+S0921,Male,Blazer,Trousers,Red,Scarf,Graduation
+S0922,Male,Shirt,Trousers,Grey,Tie,Graduation
+S0923,Female,Blazer,Skirt,Green,None,Cultural Day
+S0924,Male,Blazer,Skirt,Red,Belt,Assembly
+S0925,Male,Blazer,Skirt,White,Tie,Graduation
+S0926,Male,Gown,Shorts,Black,None,Sports Day
+S0927,Male,Shirt,Shorts,Green,Badge,Graduation
+S0928,Female,Gown,Shorts,Blue,Hat,Cultural Day
+S0929,Male,Blazer,Trousers,Green,Belt,Assembly
+S0930,Male,Blazer,Skirt,White,Badge,Graduation
+S0931,Female,Gown,Skirt,Blue,Hat,Regular Day
+S0932,Female,Gown,Skirt,Grey,Badge,Graduation
+S0933,Male,Shirt,Shorts,Green,Belt,Assembly
+S0934,Female,Shirt,Skirt,Yellow,Badge,Sports Day
+S0935,Male,Gown,Skirt,Green,Badge,Graduation
+S0936,Male,Blazer,Trousers,Blue,Hat,Assembly
+S0937,Male,Blazer,Shorts,Red,Badge,Assembly
+S0938,Female,Gown,Skirt,Green,Hat,Cultural Day
+S0939,Male,Blazer,Skirt,Yellow,Tie,Sports Day
+S0940,Female,Gown,Skirt,Black,Belt,Regular Day
+S0941,Female,Blazer,Skirt,Green,Tie,Sports Day
+S0942,Female,Blazer,Shorts,Yellow,Hat,Regular Day
+S0943,Male,Shirt,Skirt,Yellow,Badge,Cultural Day
+S0944,Female,Blazer,Skirt,Red,Badge,Cultural Day
+S0945,Male,Shirt,Trousers,Yellow,Badge,Regular Day
+S0946,Male,Gown,Trousers,Blue,Badge,Sports Day
+S0947,Male,Gown,Skirt,Red,Hat,Cultural Day
+S0948,Male,Shirt,Skirt,Green,Hat,Cultural Day
+S0949,Female,Blazer,Trousers,Red,Badge,Regular Day
+S0950,Female,Blazer,Skirt,White,Badge,Graduation
+S0951,Male,Gown,Shorts,Green,Belt,Regular Day
+S0952,Female,Gown,Shorts,Blue,Tie,Graduation
+S0953,Male,Shirt,Skirt,Blue,Badge,Graduation
+S0954,Female,Shirt,Trousers,White,Hat,Sports Day
+S0955,Male,Shirt,Trousers,Blue,Badge,Cultural Day
+S0956,Female,Shirt,Skirt,Green,Scarf,Graduation
+S0957,Female,Gown,Trousers,Red,Hat,Regular Day
+S0958,Male,Blazer,Trousers,Yellow,Belt,Graduation
+S0959,Male,Blazer,Trousers,White,Scarf,Regular Day
+S0960,Female,Shirt,Shorts,White,Badge,Assembly
+S0961,Male,Gown,Shorts,White,Tie,Regular Day
+S0962,Male,Gown,Trousers,Red,None,Cultural Day
+S0963,Male,Shirt,Skirt,Green,Tie,Assembly
+S0964,Female,Shirt,Shorts,White,Badge,Sports Day
+S0965,Female,Blazer,Trousers,Grey,Badge,Sports Day
+S0966,Female,Blazer,Skirt,Blue,Tie,Assembly
+S0967,Female,Shirt,Trousers,Black,Scarf,Assembly
+S0968,Male,Gown,Skirt,White,Badge,Graduation
+S0969,Male,Blazer,Trousers,Grey,Badge,Assembly
+S0970,Male,Gown,Trousers,Blue,Badge,Assembly
+S0971,Female,Shirt,Shorts,Yellow,Belt,Graduation
+S0972,Female,Gown,Trousers,Yellow,Hat,Graduation
+S0973,Female,Shirt,Shorts,White,None,Sports Day
+S0974,Male,Blazer,Shorts,Black,None,Cultural Day
+S0975,Male,Shirt,Trousers,Yellow,Tie,Assembly
+S0976,Female,Shirt,Skirt,Red,Scarf,Sports Day
+S0977,Male,Shirt,Shorts,Blue,Scarf,Regular Day
+S0978,Female,Gown,Shorts,Blue,Hat,Graduation
+S0979,Female,Gown,Trousers,Blue,Badge,Assembly
+S0980,Male,Gown,Trousers,Yellow,Hat,Regular Day
+S0981,Male,Gown,Skirt,Yellow,None,Cultural Day
+S0982,Female,Shirt,Shorts,Blue,Scarf,Sports Day
+S0983,Female,Gown,Skirt,Grey,Hat,Assembly
+S0984,Male,Gown,Trousers,Red,Tie,Sports Day
+S0985,Male,Gown,Skirt,Blue,Belt,Graduation
+S0986,Female,Shirt,Skirt,Green,Tie,Assembly
+S0987,Male,Blazer,Trousers,Black,Hat,Sports Day
+S0988,Male,Blazer,Shorts,Blue,None,Assembly
+S0989,Male,Blazer,Trousers,Blue,Hat,Regular Day
+S0990,Female,Blazer,Trousers,Blue,Tie,Cultural Day
+S0991,Male,Blazer,Shorts,Blue,Hat,Assembly
+S0992,Male,Gown,Skirt,Blue,Hat,Graduation
+S0993,Female,Blazer,Skirt,Black,None,Cultural Day
+S0994,Female,Gown,Skirt,Grey,None,Sports Day
+S0995,Female,Blazer,Trousers,Grey,Scarf,Assembly
+S0996,Male,Gown,Shorts,Green,Belt,Assembly
+S0997,Female,Gown,Trousers,Grey,Belt,Cultural Day
+S0998,Male,Shirt,Skirt,Black,Badge,Sports Day
+S0999,Female,Blazer,Trousers,Red,Belt,Sports Day
+S1000,Female,Blazer,Shorts,Red,Badge,Regular Day
